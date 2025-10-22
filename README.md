@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi there, I'm Lana  
+### Data Analyst & QA Specialist  
 
-<!--
-**LanaZima2025/LanaZima2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I believe that learning is a lifelong journey.  
+Every dataset, every test case — it’s an opportunity to discover something new, to grow, and to bring clarity out of complexity.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌱 About Me  
+- 🎯 Passionate about **data analysis, testing, and process improvement**  
+- 💡 Currently exploring advanced **SQL** techniques and **data visualization** with **Tableau**  
+- 🧩 I love combining **logic and creativity** — whether I’m writing a query, analyzing metrics, or testing a new feature  
+- 🌍 Based in **New York**, open to collaboration and continuous learning  
+
+---
+
+### 🛠️ Tech Stack  
+**Languages:** SQL, Python  
+**Tools:** Tableau, Excel, Postman, GitHub, Jira  
+**Testing:** Functional, API, and Data Validation  
+**Databases:** MySQL, PostgreSQL  
+
+---
+
+### 🌟 What Drives Me  
+> “If you want to improve, you must persist no matter what.”  
+
+Curiosity, persistence, and growth — these are what guide me.  
+Each project I share here reflects a part of my journey in analysis and quality assurance, built step by step with purpose and passion.  
+
+---
+
+### 🤝 Let’s Connect  
+- 💼 [LinkedIn](https://www.linkedin.com/)  
+- 🧠 [GitHub Projects](https://github.com/LanaZima2025)  
+
+---
+
+⭐ *Thanks for visiting my page — let’s learn, share, and build something meaningful together!*
+
